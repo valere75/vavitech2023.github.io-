@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+
+p{
+    color: green;
+}
+
+li {
+    list-style-type: none;
+  }
+
+  .special{
+    color:red;
+    font-weight: bold;
+    
+  }
+  
